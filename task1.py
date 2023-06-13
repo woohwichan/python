@@ -6,4 +6,4 @@ student_id = "20231989"
 student_name = "임경중"
 
 ###정답란###
-print(student_id, student_name, student_id >= "20210000")
+print(student_id, student_name, student_id >= "20210")
